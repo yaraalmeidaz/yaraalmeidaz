@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou a Yara Almeida
 
 🎓 Estudante de **Sistemas para Internet** no IFSP – Araraquara  
-💻 Interessada em **desenvolvimento web**, **back-end**, **banco de dados** e **aplicações completas**, com interesse crescente em **Java** e **desenvolvimento de jogos**  
+💻 Interessada em **Desenvolvimento web moderno (React)**, **back-end**, **banco de dados** e **aplicações completas**, com interesse crescente em **Java** e **desenvolvimento de jogos**  
 📚 Projetos acadêmicos, educacionais e de extensão publicados aqui no GitHub  
 
 ---
@@ -27,21 +27,8 @@
 
 ---
 
-### 📌 Projetos em Destaque
-- 📚 **Projeto de Extensão** — Plataforma web com banco de dados (Supabase)
-- 🌌 **Star Wars** — Consumo de API (SWAPI)
-- 🍽️ **Restaurante** — HTML e CSS puro
-- 🌐 **Aplicações Web** — Site educacional
-
----
 
 ### 🎯 Próximos Passos
 - Desenvolvimento de **projetos em Java**
 - Criação de **jogos utilizando Godot**
 - Aprimoramento em **back-end e modelagem de dados**
-
----
-
-### 📫 Contato
-- 📧 Email: seuemail@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/seulink
